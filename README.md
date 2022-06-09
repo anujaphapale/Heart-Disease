@@ -7,8 +7,6 @@ SVC Classifier
 Navie Baye
 XGboost
 
-![image](https://user-images.githubusercontent.com/101410406/172801599-88ad5254-0fc3-4970-a69e-abf025e3c92e.png)
-
 ![streamlit page1](https://user-images.githubusercontent.com/101410406/172782294-1e75aaad-b0a3-4afc-8327-7d6ddae6926b.png)
 
 Conclusion:
