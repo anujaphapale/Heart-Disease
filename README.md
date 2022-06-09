@@ -1,2 +1,15 @@
+Overview:
+Heart disease is one of the leading cause of death among all other disease. The machine learning techniques can be adapted to do the prediction of heart disease.
+Following machine learning model are developed for prediction of heart disease:
+KNN Classifier
+Random forest Classifier
+SVC Classifier
+Navie Baye
+XGboost
+
+![image](https://user-images.githubusercontent.com/101410406/172801599-88ad5254-0fc3-4970-a69e-abf025e3c92e.png)
+
 ![streamlit page1](https://user-images.githubusercontent.com/101410406/172782294-1e75aaad-b0a3-4afc-8327-7d6ddae6926b.png)
-![streamlit page2](https://user-images.githubusercontent.com/101410406/172782315-fcce5340-26b9-41e8-8f29-ecc1c9628426.png)
+
+Conclusion:
+By comparing acuracy of different model Random Forest Classifier model with 94% accuracy is selected to perdict result while depolying project. Project is deployed using streamlit.
